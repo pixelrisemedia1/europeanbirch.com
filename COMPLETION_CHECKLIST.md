@@ -40,3 +40,9 @@ Rule: Check an item only after comparing against the source or testing the publi
 - [ ] Check browser console, failed network requests, broken links, 404s, image loading and performance on desktop/mobile.
 - [ ] Verify GitHub Actions deployment succeeds; open the live deployed copy in a fresh session and directly load/refresh every route.
 - [ ] Record final verification date, deployed commit, public URL, and any remaining limitation. Custom domain/DNS is intentionally deferred until requested.
+
+## Verified audit notes — 2026-11-27
+- [x] Inspected source and copied homepages; the copy has distinct Home, AboutUs, Plywood, Partners and Contact route links.
+- [x] Fixed the footer Plywood link in both `index.html` and `404.html`; GitHub Pages commits were created.
+- [ ] Verify that latest footer fix has deployed and that all five routes present the right original page content, imagery, and layout rather than hidden/filtered home sections.
+- [ ] Compare source and copy image files, page screenshots, contact form behavior and mobile navigation.

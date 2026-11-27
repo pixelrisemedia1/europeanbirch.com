@@ -46,3 +46,7 @@ Rule: Check an item only after comparing against the source or testing the publi
 - [x] Fixed the footer Plywood link in both `index.html` and `404.html`; GitHub Pages commits were created.
 - [ ] Verify that latest footer fix has deployed and that all five routes present the right original page content, imagery, and layout rather than hidden/filtered home sections.
 - [ ] Compare source and copy image files, page screenshots, contact form behavior and mobile navigation.
+
+### European Birch media verification detail
+- [x] Source homepage audit captured a plywood-board hero image and a plywood-layer background image; it also references a separate Unsplash photographic background.
+- [ ] Map each source image/background to the correct local file or approved independent asset; verify the additional background is not missing and compare its crop, contrast overlay and focal point.

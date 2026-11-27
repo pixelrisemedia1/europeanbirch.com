@@ -63,3 +63,12 @@ Rule: Check an item only after comparing against the source or testing the publi
 - [x] Confirmed visible navigation routes: Home, AboutUs, Plywood, Partners and Contact.
 - [x] Confirmed source homepage contains an image hero and a background plywood-layer image; no video or downloadable document element was present in the captured homepage media inventory.
 - [ ] Inspect the four non-home routes directly to capture their exact page text, images, forms and layout before deciding how the copy should implement them.
+
+
+## Source route audit — additional verified detail
+- [x] About Us content inventory: company history from 1969; first 5x5 European Birch import; distribution locations Baltimore, Houston, Long Beach and Oakland; CARB Phase II, EPA TSCA Title VI and Lacey Act statements recorded.
+- [x] Plywood page records thickness range (3–40 mm), size options (5'x5', 4'x8', 8'x4', 5'x8', 10'x5'), product categories and Brands and Pricing section.
+- [x] Partners source route displays “Coming Soon”.
+- [x] Contact page fields and source office/contact details inventoried.
+- [ ] Match source About and Plywood images individually; these differ from the homepage image. Resolve unused local logs.webp and verify all crops.
+- [ ] Replace section-filter fallback with distinct source-matched layouts/content for AboutUs, Plywood, Partners and Contact; verify direct navigation and refresh.

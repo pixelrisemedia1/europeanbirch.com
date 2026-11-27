@@ -58,3 +58,8 @@ Rule: Check an item only after comparing against the source or testing the publi
 - [ ] Scan every repository file, document, metadata field and deployed network request for any remaining third-party/Base44 runtime or media dependency.
 - [ ] Confirm all listed local assets are source-matched and used in the appropriate page; unused files are not removed until their role is understood.
 - [ ] Verify the latest deployment for this checklist commit and smoke-test every route and asset after deployment.
+
+## European Birch source inventory (checked 2026-11-27)
+- [x] Confirmed visible navigation routes: Home, AboutUs, Plywood, Partners and Contact.
+- [x] Confirmed source homepage contains an image hero and a background plywood-layer image; no video or downloadable document element was present in the captured homepage media inventory.
+- [ ] Inspect the four non-home routes directly to capture their exact page text, images, forms and layout before deciding how the copy should implement them.
